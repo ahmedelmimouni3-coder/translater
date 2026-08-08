@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "download": "https://github.com/USERNAME/REPO/releases/download/v1.0.1/Translater_Setup.exe",
     "what is new": "- إضافة نظام تحديث تلقائي\n- إصلاح بعض الأخطاء\n- تحسينات في الأداء",
     "is_beta": false
