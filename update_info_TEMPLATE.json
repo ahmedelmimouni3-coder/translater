@@ -1,6 +1,6 @@
 {
-    "version": "1.0.1",
-    "download": "https://github.com/ahmedelmimouni3-coder/translater/releases/download/1.0.1/Translater_1.0.1.exe",
-    "what is new": "- Added an automatic update system\n- Fixed some bugs\n- Improved performance. Added small features and added quick shortcuts",
+    "version": "1.1.1",
+    "download": "https://github.com/ahmedelmimouni3-coder/translater/releases/download/1.1.1/Translater_Setup_1.1.1.exe",
+    "what is new": "- Added an automatic update system\n- Fixed some bugs\n- Improved performance. Added small features and added quick shortcuts Adding icons to the program and adding new optionsExample: converting text to speech and converting text to image in some languagesFor conversion from speech to text, it is preferable that the file not exceed more than two minutes",
     "is_beta": false
 }
