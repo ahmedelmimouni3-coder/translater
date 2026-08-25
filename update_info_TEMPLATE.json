@@ -1,6 +1,6 @@
 {
-    "version": "1.1.1",
-    "download": "https://github.com/ahmedelmimouni3-coder/translater/releases/download/1.1.1/Translater_Setup_1.1.1.exe",
-    "what is new": "- Added an automatic update system\n- Fixed some bugs\n- Improved performance. Added small features and added quick shortcuts Adding icons to the program and adding new optionsExample: converting text to speech and converting text to image in some languagesFor conversion from speech to text, it is preferable that the file not exceed more than two minutes",
+    "version": "2.1.1",
+    "download": "https://github.com/ahmedelmimouni3-coder/translater/releases/download/2.1.1/Translater_2.1.1.exe",
+    "what is new":"Fixed shortcut issues, added a comprehensive settings interface featuring three interface languages, several background colors to switch between, a section to read what is new in updates after they appear, integrated the Gemini model with a designated place to enter your API key in the settings, and allowed you to select the model to assist with text correction and translation if all other translation models fail",
     "is_beta": false
 }
