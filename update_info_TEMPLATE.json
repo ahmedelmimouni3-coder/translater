@@ -1,6 +1,6 @@
 {
-    "version": "2.1.1",
-    "download": "https://github.com/ahmedelmimouni3-coder/translater/releases/download/2.1.1/Translater_2.1.1.exe",
-    "what is new":"Fixed shortcut issues, added a comprehensive settings interface featuring three interface languages, several background colors to switch between, a section to read what is new in updates after they appear, integrated the Gemini model with a designated place to enter your API key in the settings, and allowed you to select the model to assist with text correction and translation if all other translation models fail",
+    "version": "2.2.1",
+    "download": "https://github.com/ahmedelmimouni3-coder/translater/releases/download/2.2.1/Translater.exe",
+    "what is new":"After the fix, translation became possible via EI. It is now possible to convert the translation to audio. There is a place to read the program's shortcuts in the user guide.",
     "is_beta": false
 }
